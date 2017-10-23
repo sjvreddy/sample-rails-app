@@ -1,3 +1,3 @@
 class PageUpdate < ApplicationRecord
-  <% Testing something here %>
+junk and this will cause failure
 end
